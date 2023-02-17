@@ -19,7 +19,6 @@ dns:
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
-
 proxies:
   - {"name":"🇰🇷_KR_韩国","type":"vmess","server":"152.69.230.170","port":80,"cipher":"auto","uuid":"6aa24ded-5f15-48c7-8cba-3e2a159d6b77","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
   - {"name":"🇸🇬_SG_新加坡_1","type":"vmess","server":"178.128.61.149","port":50328,"cipher":"auto","uuid":"d1860587-aa33-4b76-85cd-c191edecb338","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws"}
